@@ -77,7 +77,7 @@ export default class World
         )
         this.macScreen = new Screen(
             this.resources.items.macScreenModel.scene.children[0],
-            '/assets/videoStream.mp4'
+            '/assets/videoPortfolio.mp4'
         )
     }
 
